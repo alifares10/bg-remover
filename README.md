@@ -1,1 +1,1 @@
-# Ali Fares Picture Background Remover App
+# Ali Fares - Picture Background Remover App
